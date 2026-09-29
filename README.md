@@ -1,195 +1,75 @@
-<!-- ===================== HEADER ===================== -->
-<div align="center">
-  <!-- Animated alien – используем GIF, чтобы работало без CSS -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjgwZTZhNzVjOTMyYTQ2OGNlY2U2NzllYTQ1ODdlOTFjNmMxM2QzMiZjdD1n/ZZrGG1XjvK2Pjmmp7w/giphy.gif" width="64" alt="Alien Monster"/>
-  
-  <h1 style="font-size:2.2em;font-weight:bold;margin:0.3em 0;">
-    Привет, я <span style="color:#8b5cf6;">ILP</span>!
-  </h1>
-  <i>Junior Web & Backend Developer • Mid-level Mobile Developer</i>
-</div>
-
----
-
-### 🌟 Обо мне
-<table>
-  <tr><td><b>🌐 Web Development</b></td><td>Junior</td></tr>
-  <tr><td><b>🖥️ Backend Development</b></td><td>Junior</td></tr>
-  <tr><td><b>📱 Mobile Development</b></td><td>Mid-level</td></tr>
-  <tr><td><b>🚀 Стек</b></td><td>PHP, Python, JavaScript, Kotlin, Dart, Node.js, MySQL, MongoDB, Redis…</td></tr>
-</table>
-
-### 💻 Skills
-<table align="center">
-  <tr>
-    <td align="center" width="56">
-      <a href="https://www.php.net/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" alt="PHP"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://www.python.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" alt="Python"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" alt="JavaScript"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://kotlinlang.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" alt="Kotlin"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://dart.dev/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" alt="Dart"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" alt="Git"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://www.oracle.com/java/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" alt="Java"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" alt="Bash"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" alt="VS Code"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://developer.mozilla.org/ru/docs/Web/HTML" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" alt="HTML5"/>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="56">
-      <a href="https://reactjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="React"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://vuejs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" alt="Vue.js"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://jquery.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" alt="jQuery"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://www.w3.org/TR/CSS/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" alt="CSS3"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" alt="TailwindCSS"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://webpack.js.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" alt="Webpack"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://vitejs.dev/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" alt="Vite"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://nodejs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" alt="Node.js"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://expressjs.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" alt="Express"/>
-      </a>
-    </td>
-    <td align="center" width="56"></td>
-  </tr>
-
-  <tr>
-    <td align="center" width="56">
-      <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" alt="MongoDB"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" alt="MySQL"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" alt="Firebase"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://supabase.io/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" alt="Supabase"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://www.figma.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" alt="Figma"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://wordpress.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" alt="WordPress"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://flutter.dev/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" alt="Flutter"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://laravel.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" alt="Laravel"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://www.docker.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" alt="Docker"/>
-      </a>
-    </td>
-    <td align="center" width="56"></td>
-  </tr>
-</table>
-
-### 📈 Статистика
-<div align="center">
-  <!-- Используем альтернативный публичный endpoint, часто работает стабильнее -->
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ILP-hub&show_icons=true&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ILP-hub&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages" alt="Top Languages"/>
-</div>
-
-### 📫 Со мной
 <p align="center">
-  <a href="mailto:youremail@example.com">✉️ Email</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">🔗 LinkedIn</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://t.me/yourtelegram" target="_blank">📨 Telegram</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/ILP-hub" target="_blank">🐙 GitHub</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=44&duration=4000&pause=1500&color=A855F7&center=true&vCenter=true&width=700&height=80&repeat=true&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C%20%D1%8F%20%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%21%20%F0%9F%91%BE" alt="Привет, я Роман!"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=C4B5FD&center=true&vCenter=true&width=600&height=40&lines=Middle%20Web%20Developer;Middle%20Backend%20Developer;Middle%20Mobile%20Developer;Kotlin%20%E2%80%A2%20Dart%20%E2%80%A2%20Flutter;PHP%20%E2%80%A2%20Python%20%E2%80%A2%20Node.js" alt="Middle Developer"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=g0v4k0&label=Profile%20views&color=a855f7&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/g0v4k0?label=Followers&style=for-the-badge&color=a855f7&labelColor=1c1917&logo=github" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/g0v4k0?affiliations=OWNER&label=Stars&style=for-the-badge&color=a855f7&labelColor=1c1917&logo=github" alt="stars"/>
 </p>
 
 ---
 
-<div align="center">
-  <sub>Made with ❤️ by ILP • Last updated: <strong>April&nbsp;23,&nbsp;2025</strong></sub>
-</div>
+## 🌟 Обо мне
+
+| Направление | Уровень |
+|---|---|
+| 🌐 Web Development | ![Middle](https://img.shields.io/badge/Middle-a855f7?style=flat-square) |
+| 🖥️ Backend Development | ![Middle](https://img.shields.io/badge/Middle-a855f7?style=flat-square) |
+| 📱 Mobile Development | ![Middle](https://img.shields.io/badge/Middle-a855f7?style=flat-square) |
+
+- 🔭 Разрабатываю мобильные и веб-приложения под ключ
+- 🌱 Прокачиваю архитектуру и backend
+- ⚡ Люблю, когда код простой и понятный
+
+## 💻 Стек
+
+<p align="center">
+  <b>Языки</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=kotlin,dart,java,php,python,js,html,css,bash&theme=dark" alt="languages"/>
+</p>
+
+<p align="center">
+  <b>Фреймворки и библиотеки</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,react,vue,jquery,tailwind,nodejs,express,laravel,wordpress&theme=dark" alt="frameworks"/>
+</p>
+
+<p align="center">
+  <b>Базы данных и инструменты</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,firebase,supabase,docker,git,github,webpack,vite,figma,vscode&theme=dark" alt="tools"/>
+</p>
+
+## 📈 Статистика
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g0v4k0&theme=tokyonight" width="100%" alt="profile details"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=g0v4k0&theme=tokyonight" width="49%" alt="stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=g0v4k0&theme=tokyonight" width="49%" alt="most commit language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=g0v4k0&theme=tokyonight" width="49%" alt="repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=g0v4k0&theme=tokyonight&utcOffset=5" width="49%" alt="productive time"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=g0v4k0&theme=tokyonight&hide_border=true&background=1c1917&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak"/>
+</p>
+
+## 📫 Связаться со мной
+
+<p align="center">
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-a855f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://github.com/g0v4k0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+---
+
+<p align="center"><sub>Made with 💜 by Roman Govako</sub></p>
